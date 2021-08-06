@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://colab.research.google.com/github/sabrinaslattery/credit-reliability-prediction/blob/main/Comp411_CreditProject.ipynb">
-    <img src="https://github.com/sabrinaslattery/credit-reliability-prediction/blob/main/images/CRP_Heatmap.png" alt="Logo" width="300" height="300" target="blank">
+  <a href="https://colab.research.google.com/github/sabrinaslattery/credit-reliability-prediction/blob/main/Comp411_CreditProject.ipynb" target="_blank">
+    <img src="https://github.com/sabrinaslattery/credit-reliability-prediction/blob/main/images/CRP_Heatmap.png" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">Credit Reliability Prediction</h3>
@@ -13,7 +13,7 @@
     <a href="https://github.com/sabrinaslattery/credit-reliability-prediction"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://colab.research.google.com/github/sabrinaslattery/credit-reliability-prediction/blob/main/Comp411_CreditProject.ipynb">View Demo</a>
+    <a href="https://colab.research.google.com/github/sabrinaslattery/credit-reliability-prediction/blob/main/Comp411_CreditProject.ipynb" target="_blank">View Demo</a>
     ·
     <a href="https://github.com/sabrinaslattery/credit-reliability-prediction/issues">Report Bug</a>
     ·
