@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://colab.research.google.com/github/sabrinaslattery/credit-reliability-prediction/blob/main/Comp411_CreditProject.ipynb">
-    <img src="https://github.com/sabrinaslattery/credit-reliability-prediction/blob/main/images/CRP_Heatmap.png" alt="Logo" width="300" height="300">
+    <img src="https://github.com/sabrinaslattery/credit-reliability-prediction/blob/main/images/CRP_Heatmap.png" alt="Logo" width="300" height="300" target="blank">
   </a>
 
   <h3 align="center">Credit Reliability Prediction</h3>
